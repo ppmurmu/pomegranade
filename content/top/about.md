@@ -1,25 +1,14 @@
-![](/img/display_picture.jpg)  I am **_Pradeep Peter Murmu_**, currently working as mobile lead in String Ventures.
+![](/img/display_picture.jpg)  Hey, I am **_Pradeep Peter Murmu_**, and this is my blog called **"Pomegranade"**.
 
-Throughout his career, he has built a number of large-scale, cross-country OSS/BSS platforms/systems and operation tools, most of them are still running in productions.
+Why is it called "Pomegranade"? Well, it's a word play on "Pomegranate" and "Granade". Technically, I'm just trying to connect the dots looking backwards because I wanted one word name for my blog which could act like a metaphor to my writings and also had a hint of personal story behind it.
 
-He loves open source and has been contributing to a variety of open source projects, including Istio(Service Mesh https://istio.io), ONAP(Open Network Automation Platform https://wiki.onap.org), Hugo(static site generators https://themes.gohugo.io/hugo-theme-cleanwhite/), etc.
+Pomegranate as a fruit has immense nutritional value. Whenever anybody felt sick at my home, my father used to get pomegranate from the market and immediately make its juice. I don't know at what level does pomegranate lie in the nutritional fruits heirarchy but it was definitely considered the top most at our home. Pomegranate as a fruit is not easy to eat. It has numerous beads inside it and takes a lot of effort to pick beads and eat. I remember Biswa's stand-up comparing [bananas and pomegranate](https://www.youtube.com/watch?v=wkLmfIxi3No), in which he mocks how difficult it is to eat a pomegranate. It's such a tedious task that anybody's last memory of eating pomegranate is either with their parents or grandparents because only they would take the efforts to peel it off and serve. Pomegranate is definitely a nostalgia pill. I feel a lot of my writing can make you remember memories from childhood or give a scent of nostalgia after reading. The numerous beads inside the protective cover of pomegranate is about how I want to keep writing about a lot of stuff. Since, my work consumes a large part of my day, I also try to write on Tech, Products and Start-ups.
 
-He also has strong interests in various tech stuff such as Artificial Intelligence, Cryptocurrencies, Smart Home.
+The "Granade" in the word play is about the impact I want to achieve. I try to write on society and cultures because that's the most powerful category of writings. Ultimately it's the society that we want to change and improve. I might be wrong or uninformed regarding some social topics but I'm always open to discussion and improvement.
 
-Huabing holds a BS in Computer Science and Technology from Chongqing University in China.
+In short, it's the documentation of everything I do in my life. My interests, thoughts, ideas, projects, perspective, commentary, verses, stories and shitposts, it's like my human embodiment.
 
-Currently, Huabing is working on a 5G NFV&SDN orchestration and management platform, at the same time, he also wears the hat of PTL in ONAP(http://www.onap.org) open source project.
+Lastly, 'Anar dana' is made from pomegranate and is one of her favourite things. So, yes, "Pomegranade" is too personal.
 
-He is happy with his current job, but also willing to take new challenges if the opportunity matches his career path.
+All views are my own.
 
-While he is not working, he enjoys watching movies, swimming, hiking, travelling, writing blogs and learning languages.
-
-Feel free to connect Huabing via Github (https://github.com/zhaohuabing) or drop him an email (zhaohuabing@gmail.com).
-
-## Talks
-
-* [Service Mesh in Action with ONAP] (https://www.slideshare.net/HuabingZhao/service-mesh-in-action-with-onap) GNTC, 南京, 2018
-* [MSB to Support Carrier Grade ONAP Microservice Architecture with Service Mesh] (https://www.slideshare.net/HuabingZhao/msb-to-support-carrier-grade-onap-microservice-architecture-with-service-mesh) ONS, Los Angeles, 2018
-* [Microservice Powered Orchestration](https://www.slideshare.net/HuabingZhao/microservice-powered-orchestration-126100339) ONS, Santa Clara, 2017
-* [MSB Technical Deep Dive and ONAP Use Cases] (https://www.slideshare.net/HuabingZhao/msb-depp-dive/) ONAP Developer Event, New Jersey, 2017
-* [Microservice Bus Tutorial] (https://www.slideshare.net/HuabingZhao/microservice-bus-tutorial) ONAP Developer Event, Paris, 2017

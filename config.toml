@@ -1,4 +1,4 @@
-baseurl = "https://zhaohuabing.com"
+baseurl = ""
 title = "Pomegranade"
 theme = "cleanwhite"
 languageCode = "en-us"
@@ -15,9 +15,9 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "img/main-cover.jpg"
   SEOTitle = "Pradeep Peter Murmu"
-  description = "A repo of my life"
+  description = "Pradeep Peter Murmu's Blog"
   keyword = "Blog, Life"
-  slogan = "A repo of my life"
+  slogan = "Pradeep Peter Murmu's Blog"
 
   image_404 = "img/404-bg.jpg"
   title_404 = "你来到了没有知识的荒原 :("
@@ -41,23 +41,12 @@ home = ["HTML", "RSS", "Algolia"]
   featured_tags = true 
   featured_condition_size = 1 
 
-  # Baidu Analytics
-  ba_track_id = ""
-  
-  # We need a proxy to access Disqus api in China
-  # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
-  disqus_proxy = ""
-  disqus_site = ""
-
-  # Twikoo comments
-  # Follow https://twikoo.js.org/ to set up your own env_id
-  twikoo_env_id = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
   reward = false 
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
-  friends = true
+  friends = false
   bookmarks = true
   about_me = true
 
@@ -66,18 +55,18 @@ home = ["HTML", "RSS", "Algolia"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
   [params.social]
-  rss            = true 
+  rss            = false 
   email          = "pradeeppetermurmu@gmail.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   twitter       = "https://www.twitter.com/PradeepPeterM"
-  linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
+  linkedin       = "https://www.linkedin.com/in/pradeep-peter-murmu-b6714249/"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
   github         = "https://github.com/ppmurmu"
   #wechat         = "your wechat qr code image"
-#  medium         = "full profile url in medium"
-  #pinterest     = "full profile url in pinterest"
+  medium         = "https://medium.com/@pradeeppetermurmu"
+  pinterest     = "full profile url in pinterest"
   #reddit        = "full profile url in reddit"
   #gitlab        = "full profile url in gitlab"
   #mastodon      = "full profile url in mastodon"
@@ -86,21 +75,13 @@ home = ["HTML", "RSS", "Algolia"]
   #git           = "full profile url for git user"
   
   [[params.friend_link]]
-  title = "Linda的博客"
-  href =  "https://zhaozhihan.com"
+  title = "Friend1"
+  href =  "https://example.com"
 
   [[params.bookmark_link]]
-  title =  "Martin Fowler"
-  href =  "https://martinfowler.com"
-  [[params.bookmark_link]]
-  title = "ServiceMesher"
-  href =  "http://www.servicemesher.com"
-  [[params.bookmark_link]]
-  title =  "Pxhere"
-  href = "https://pxhere.com"
-  [[params.bookmark_link]]
-  title = "unsplash"
-  href = "https://unsplash.com"
+  title =  "Goodreads"
+  href =  "https://www.goodreads.com/user/show/24718024-pradeep-peter-murmu"
+  
   
   [[params.addtional_menus]]
   title =  "BOOKS"
@@ -128,3 +109,17 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.highlight]
     style = "dracula"
+
+[params.giscus]
+data-repo="ppmurmu/pomegranade"
+data-repo-id="R_kgDOG5aZuA"
+data-category="Announcements"
+data-category-id="DIC_kwDOG5aZuM4CBTe2"
+data-mapping="pathname"
+data-reactions-enabled="1"
+data-emit-metadata="0"
+data-input-position="top"
+data-theme="light"
+data-lang="en"
+crossorigin="anonymous"
+
