@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://www.pomegranade.in"
 title = "Pomegranade"
 theme = "cleanwhite"
 languageCode = "en-us"
@@ -14,13 +14,14 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/main-cover.jpg"
+  title= "Pomegranade- Pradeep Peter Murmu's Blog"
   SEOTitle = "Pradeep Peter Murmu"
   description = "Pradeep Peter Murmu's Blog"
   keyword = "Blog, Life"
   slogan = "Pradeep Peter Murmu's Blog"
 
   image_404 = "img/404-bg.jpg"
-  title_404 = "你来到了没有知识的荒原 :("
+  title_404 = "Failed :("
   omit_categories = false
 
   # leancloud storage for page view counter

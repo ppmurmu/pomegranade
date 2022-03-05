@@ -3,13 +3,13 @@ title:      "Journal #5 : Lights"
 subtitle:   ""
 description: ""
 excerpt: ""
-date:       2022-03-06 02:19:00
+date:       2022-03-05 15:00:00
 author:     " Pradeep Peter Murmu,"
-image: "/img/journal4.jpg"
+image: "/img/journal5.jpg"
 published: true
 tags:
     - Journal
-URL: "/2022/03/06/journal-5-lights/"
+URL: "/2022/03/05/journal-5-lights/"
 categories: [ "Journal" ]
 ---
 
