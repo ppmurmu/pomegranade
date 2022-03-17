@@ -6,7 +6,7 @@ languageCode = "en-us"
 disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
-paginate = 5 #frontpage pagination
+paginate = 4 #frontpage pagination
 hasCJKLanguage = true
 
 [outputs]
